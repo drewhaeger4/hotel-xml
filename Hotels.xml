@@ -88,7 +88,7 @@
   </Hotel>
 
   <Hotel Rating="3.9">
-    <Name>Holiday Inn Express & Suites Tempe</Name>
+    <Name>Holiday Inn Express and Suites Tempe</Name>
     <Phone>480-966-7202</Phone>
     <Address Number="1520">
       <Street>W Baseline Rd</Street>
@@ -112,7 +112,7 @@
   </Hotel>
 
   <Hotel Rating="4.0">
-    <Name>Drury Inn & Suites Phoenix Airport</Name>
+    <Name>Drury Inn and Suites Phoenix Airport</Name>
     <Phone>602-437-8400</Phone>
     <Phone>800-378-7946</Phone>
     <Address Number="3333">
